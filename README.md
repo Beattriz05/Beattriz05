@@ -4,9 +4,9 @@
 
 Olá! Me chamo Ana Beatriz. Tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac.Sou uma pessoa proativa, comunicativa e apaixonada por aprender e crescer na área tecnológica. Meu objetivo é continuar expandindo meus conhecimentos e habilidades, contribuindo para projetos inovadores e desafiadores que possam gerar impacto positivo.
 <p align="left">
-    <a href="https://github.com/Beatriiz05?tab=followers">
+    <a href="https://github.com/Beatriiz05/">
         <img 
-            alt="Seguidores" 
+            alt="GitHub" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/b?color=9400ba&labelColor=9400ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
