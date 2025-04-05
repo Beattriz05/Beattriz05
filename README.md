@@ -92,4 +92,4 @@ Olá! Me chamo Ana Beatriz. Tenho 19 anos e sou natural de Pernambuco. Atualment
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriiz05&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=8"
 />
 
-![Snake animation](https://github.com/Beatriiz05/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Beatriiz05/Beatriz05/blob/output/github-contribution-grid-snake.svg)
