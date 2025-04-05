@@ -8,7 +8,7 @@ Olá! Me chamo Ana Beatriz. Tenho 19 anos e sou natural de Pernambuco. Atualment
         <img 
             alt="GitHub" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/b?color=9400ba&labelColor=9400ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/b?color=9400ba&labelColor=9400ba&style=for-the-badge&logo=github&label=github&logoColor=white"
         />
     </a>
     <a href="https://www.instagram.com/_beattriz_05/">
