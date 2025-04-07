@@ -80,7 +80,7 @@ Olá! Me chamo Ana Beatriz. Tenho 19 anos e sou natural de Pernambuco. Atualment
   <a href="https://github.com/dansoaresfarias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatriiz05&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriiz05&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <style="padding-right: 200px;" 
+  <style="padding-right: 150px;" 
 </div>
 
 
