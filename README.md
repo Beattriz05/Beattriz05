@@ -33,7 +33,7 @@ Olá! Me chamo Ana Beatriz. Tenho 19 anos e sou natural de Pernambuco. Atualment
     </a>
 </p>
         
----
+--
 
 ### 🤖 Linguagens e Tecnologias 
 
