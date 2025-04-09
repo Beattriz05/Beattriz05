@@ -32,8 +32,6 @@ Olá! Me chamo Ana Beatriz. Tenho 19 anos e sou natural de Pernambuco. Atualment
             src="https://img.shields.io/badge/linkedin-000000?color=9400ba&labelColor=9400ba&style=for-the-badge&logo=Threads&logoColor=white"
     </a>
 </p>
-        
---
 
 ### 🤖 Linguagens e Tecnologias 
 
