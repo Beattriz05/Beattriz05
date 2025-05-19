@@ -62,14 +62,6 @@ Olá! Me chamo Ana Beatriz. Tenho 19 anos e sou natural de Pernambuco. Atualment
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="center" 
-    alt="MySql"
-    title="MySql"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg"
-/>
-<img 
     align="left" 
     alt="Git" 
     title="Git"
@@ -77,7 +69,6 @@ Olá! Me chamo Ana Beatriz. Tenho 19 anos e sou natural de Pernambuco. Atualment
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
 <br/>
 <br/>
 
