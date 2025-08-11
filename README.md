@@ -2,7 +2,7 @@
 
 **`Desenvoldora FullStack`**
 
-Olá! Me chamo Ana Beatriz. Tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac.Sou uma pessoa proativa, comunicativa e apaixonada por aprender e crescer na área tecnológica. Meu objetivo é continuar expandindo meus conhecimentos e habilidades, contribuindo para projetos inovadores e desafiadores que possam gerar impacto positivo.
+Olá! Me chamo Ana Beatriz. Tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac. Sou uma pessoa proativa, comunicativa e apaixonada por aprender e crescer na área tecnológica. Meu objetivo é continuar expandindo meus conhecimentos e habilidades, contribuindo para projetos inovadores e desafiadores que possam gerar impacto positivo.
 <p align="left">
     <a href="https://anabeatrizdasilva263@gmail.com">
         <img 
