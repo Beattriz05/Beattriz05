@@ -69,12 +69,14 @@ Olá! Me chamo Ana Beatriz. Tenho 19 anos e sou natural de Pernambuco. Atualment
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<td>
 <img 
+    align="left"
     alt="Python"
+    title="Python"
     width="30px"
-    src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
-</td>
+    style="padding-right: 10px"
+    src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"
+/>
 <br/>
 
 ### 📊 Estatísticas
