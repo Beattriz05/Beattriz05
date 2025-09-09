@@ -63,6 +63,22 @@ Olá! Me chamo Ana Beatriz. Tenho 19 anos e sou natural de Pernambuco. Atualment
 />
 <img 
     align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -76,6 +92,14 @@ Olá! Me chamo Ana Beatriz. Tenho 19 anos e sou natural de Pernambuco. Atualment
     width="30px"
     style="padding-right: 10px"
     src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"
+/>
+<img 
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo.png"
 />
 <br/>
 
