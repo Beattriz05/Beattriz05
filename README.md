@@ -18,7 +18,7 @@ Olá! Me chamo Ana Beatriz. Tenho 20 anos e sou natural de Pernambuco. Atualment
             src="https://img.shields.io/badge/Discord-7289DA?color=9400ba&labelColor&style=for-the-badge&logo=discord&logoColor=white"
         />
     </a>
-    <a href="https://www.instagram.com/_beattriz_05/">
+    <a href="https://www.instagram.com/beattriz.dev/">
         <img 
             alt="instagram" 
             title="Me siga no instagram" 
