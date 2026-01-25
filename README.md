@@ -32,8 +32,6 @@ Olá! Me chamo Ana Beatriz. Tenho 20 anos e sou natural de Pernambuco. Atualment
             src="https://img.shields.io/badge/linkedin-000000?color=9400ba&labelColor=9400ba&style=for-the-badge&logo=Threads&logoColor=white"
     </a>
 </p>
-        
----
 
 <h3 align="left">My Stack ~</h3>
 
@@ -51,11 +49,9 @@ Olá! Me chamo Ana Beatriz. Tenho 20 anos e sou natural de Pernambuco. Atualment
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
 </div>
 
-<h3 align="left">Estatísticas ~</h3> 
+<h3 align="left">Statistics ~</h3> 
 
 <div align="center">
   <a href="https://github.com/Beattriz05">
