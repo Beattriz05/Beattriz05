@@ -19,7 +19,7 @@ Olá! Me chamo Ana Beatriz. Tenho 20 anos e sou natural de Pernambuco. Atualment
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typscript/typscript-plain.svg" height="25" alt="typscript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typscript/typscript-original.svg" height="25" alt="typscript logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="8" />
