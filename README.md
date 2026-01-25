@@ -6,7 +6,7 @@
 
 **`Desenvoldora FullStack`**
 
-Hi there! I’m Ana Beatriz, Systems Analysis and Development student, I'm driven by the challenge of deciphering complex puzzles. To me, technology is a powerful tool for efficiency and creating a real difference. I’m a lifelong learner who loves transforming logic into meaningful solutions. Based in Recife’s Porto Digital, I’m constantly growing and pushing my limits, one line of code at a time.
+Hi there! I’m Ana Beatriz, Systems Analysis and Development student, I'm driven by the challenge of deciphering complex puzzles. To me, technology is a powerful tool for efficiency and creating a real difference. I’m a lifelong learner who loves transforming logic into meaningful solutions. From Recife to the world, I’m exploring the Porto Digital ecosystem and striving to evolve with every new line of code!
 
 <h3 align="left">Connect with me!</h3>
 
