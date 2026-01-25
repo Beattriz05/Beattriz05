@@ -12,7 +12,7 @@ Olá! Me chamo Ana Beatriz. Tenho 20 anos e sou natural de Pernambuco. Atualment
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](anabeatrizdasilva263@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/beatriz-dev/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=69239e&color:FFF)](https://www.instagram.com/beattriz.dev/)
+[![Instagram](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=instagram&logoColor=69239e&color:FFF)](https://www.instagram.com/beattriz.dev/)
 
 <h3 align="left">My Stack ~</h3>
 
