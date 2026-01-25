@@ -6,7 +6,7 @@
 
 **`Desenvoldora FullStack`**
 
-Olá! Me chamo Ana Beatriz. Tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac. Sou uma pessoa proativa, comunicativa e apaixonada por aprender e crescer na área tecnológica. Meu objetivo é continuar expandindo meus conhecimentos e habilidades, contribuindo para projetos inovadores e desafiadores que possam gerar impacto positivo.
+Hi there! I’m Ana Beatriz. As a Systems Analysis and Development student, I'm driven by the challenge of deciphering complex puzzles. To me, technology is a powerful tool for efficiency and creating a real difference. I’m a lifelong learner who loves transforming logic into meaningful solutions. Based in Recife’s Porto Digital, I’m constantly growing and pushing my limits, one line of code at a time.
 
 <h3 align="left">Connect with me!</h3>
 
