@@ -30,10 +30,6 @@ Hi there! I’m Ana Beatriz, Systems Analysis and Development student, I'm drive
 
 <h3 align="left">Statistics ~</h3> 
 
-<div align="center">
-  <a href="https://github.com/beattrizdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beattrizdev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beattrizdev&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-
-
+![](https://github-readme-stats.shion.dev/api?username=beattrizdev&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=beattrizdev&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=beattrizdev&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
