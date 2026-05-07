@@ -17,19 +17,19 @@ Hi there! I’m Ana Beatriz, Systems Analysis and Development student, I'm drive
 <h3 align="left">My Stack ~</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="25" alt="typescript logo" />
+  <img width="8" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
 </div>
 
 <h3 align="left">Statistics ~</h3> 
 
-![](https://github-readme-stats.shion.dev/api?username=beattrizdev&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=beattrizdev&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=beattrizdev&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=beattrizs&theme=midnight-purple&hide_border=false)<br/>
