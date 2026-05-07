@@ -4,7 +4,7 @@
   </a>
 </div>
 
-**`Full Stack Developer`** **`Web Development`** **`DataBase`**
+**`Full Stack Developer`** **`DataBase`**
 
 Hi there! I’m Ana Beatriz, Systems Analysis and Development student, I'm driven by the challenge of deciphering complex puzzles. To me, technology is a powerful tool for efficiency and creating a real difference. I’m a lifelong learner who loves transforming logic into meaningful solutions. From Recife to the world, I’m exploring the Porto Digital ecosystem and striving to evolve with every new line of code!
 
